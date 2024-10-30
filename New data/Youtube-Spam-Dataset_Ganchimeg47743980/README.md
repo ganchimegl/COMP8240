@@ -1,6 +1,4 @@
-# YouTube Spam Detection
-### Ganchimeg Lkhagvasuren - 47743980
-
+# YouTube Spam Detection (Ganchimeg Lkhagvasuren - 47743980)
 ## Overview
 
 This project aims to develop a machine learning model capable of detecting spam comments on YouTube. With the vast amount of content on YouTube, spam detection is essential for maintaining a clean and safe platform. By leveraging the FastAI library for text classification and using sentiment analysis as additional input features, this project achieves a robust spam detection model to classify comments as "spam" or "not spam."
