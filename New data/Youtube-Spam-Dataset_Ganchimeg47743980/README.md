@@ -1,4 +1,5 @@
-# YouTube Spam Detection with FastAI and Sentiment Analysis
+# YouTube Spam Detection
+### Ganchimeg Lkhagvasuren - 47743980
 
 ## Overview
 
