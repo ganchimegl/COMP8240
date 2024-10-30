@@ -33,3 +33,15 @@ After downloading, place the dataset file in the project directory and ensure th
 5. **Model Evaluation**:
    - The trained model is evaluated on the test data, generating classification metrics to assess its performance on identifying spam comments.
 
+## Project Structure
+
+- **ULFIT2.ipynb**: Main Jupyter notebook with code and analysis for Youtube Spam Detection.
+- **README.md**: Project overview and instructions.
+  
+## Setup and Dependencies
+
+This project uses the following main dependencies:
+- Python 3.7+
+- [fastai](https://docs.fast.ai/) (version 2.0 or above)
+- PyTorch (compatible with fastai)
+
