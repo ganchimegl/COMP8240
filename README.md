@@ -10,7 +10,10 @@ This project replicates the Universal Language Model Fine-tuning (ULMFiT) approa
 3. Analyze the role of feature engineering and preprocessing techniques, such as polarity and subjectivity, in improving model accuracy for noisy, real-world data.
 
 ## Datasets Used
+### Replication
 1. IMDb Large Movie Review Dataset: Used to replicate the original ULMFiT results on sentiment classification.
+
+### New datasets
 2. Twitter US Airline Sentiment: Sentiment analysis on tweets directed at major US airlines.
 3. Kindle Reviews: Sentiment classification on user reviews from Amazon’s Kindle platform.
 4. YouTube Spam Dataset: Binary classification to detect spam and non-spam comments.
@@ -46,10 +49,10 @@ pip install -r requirements.txt
 
 
 ## Contributors
-1. Ganchimeg - YouTube Spam Dataset and Overall Project Coordination
-2. Parinya - Twitter US Airline Sentiment Dataset
-3. Shrishti - Kindle Reviews Dataset
-4. Dulguunzul - Amazon Reviews Dataset
+1. Ganchimeg Lkhagvasuren (47743980)
+2. Parinya Sodsai - 47817283
+3. Shrishti Lulla - 47686529
+4. Dulguunzul Battsengel - 47634553
 
 ## References
 Howard, J., & Ruder, S. (2018). Universal language model fine-tuning for text classification. arXiv preprint arXiv:1801.06146.
