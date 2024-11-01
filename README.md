@@ -51,8 +51,8 @@ pip install -r requirements.txt
 ## Contributors
 1. Ganchimeg Lkhagvasuren (47743980)
 2. Parinya Sodsai - 47817283
-3. Shrishti Lulla - 47686529
-4. Dulguunzul Battsengel - 47634553
+3. Dulguunzul Battsengel - 47634553
+4. Shrishti Lulla - 47686529
 
 ## References
 Howard, J., & Ruder, S. (2018). Universal language model fine-tuning for text classification. arXiv preprint arXiv:1801.06146.
